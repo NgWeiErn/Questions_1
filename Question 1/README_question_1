@@ -1,0 +1,28 @@
+//---------------Input---------------//
+
+1st column: Employee ID
+2nd column: Age
+3rd column: Salary
+4th column: Years of Service
+
+//---------------Output---------------//
+
+Row 1: Answer to question 1(a). smallest follow by largest age.
+Row 3: Answer to question 1(b). mean follow by standard deviation.
+Row 5 onward: Answer to question 1(c) in this order: sort by age, sort by salary, sort by years of service.
+
+Leave a blank line between answer to 1(a) & 1(b).
+Leave a blank line between answer to 1(b) & 1(c). 
+Leave a blank line between answer to 1(c) sorted by age & 1(c) sorted by salary.
+Leave a blank line between answer to 1(c) sorted by salary & 1(c) sorted by years of service.
+
+
+**NOTE** Always put only ONE space between numbers.
+Refer to "output_question_1_example"
+Example output with simple input
+1 22 2000 2
+2 28 1500 8
+3 38 2500 1
+
+
+

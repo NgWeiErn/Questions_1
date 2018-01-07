@@ -1,0 +1,30 @@
+//---------------Output---------------//
+
+1st column: "same pair" count
+2nd column: occurance or frequency of the n bits binary sequence that has this "same pair" count
+
+**NOTE** Always put only ONE space between numbers.
+Refer to "output_question_6_example"
+Example output with simple input
+3 bits binary sequence
+
+****** Deatils on how to get the frequency table ******
+
+eg for 3 bits binary sequence
+
+3-bit_sequence same_pair_count
+000	2
+001	1
+010	0
+011	1
+100	1
+101	0
+110	1
+111	2
+
+same_pair_count frequencies
+0 2
+1 4
+2 2
+
+****************************************************

@@ -1,0 +1,22 @@
+//---------------Input---------------//
+
+1st column: n
+2nd column: x
+
+//---------------Output---------------//
+
+1st column: n
+2nd column: x
+3rd column: answer
+
+
+**NOTE** Always put only ONE space between numbers.
+Refer to "output_question_2_example"
+Example output with simple input
+1 2
+1 3
+2 1
+
+
+
+

@@ -1,0 +1,15 @@
+//---------------Input---------------//
+
+10x20 matrix
+
+//---------------Output---------------//
+
+"max" value in 10x20 matrix
+
+
+**NOTE** Always put only ONE space between numbers.
+Refer to "output_question_3_example"
+Example output with simple input
+2 89 7
+8 25 125
+255 155 99
